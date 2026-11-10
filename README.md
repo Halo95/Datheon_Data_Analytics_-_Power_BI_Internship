@@ -21,15 +21,15 @@ Both projects use the Superstore retail sales dataset (2015-2018, 9,993 order li
 ```
 .
 ├── README.md
-├── Task\\\_1\\\_Superstore\\\_EDA/
+├── Task_1_Superstore_EDA/
 │   ├── README.md
-│   ├── superstore\\\_eda.ipynb
-│   ├── superstore\\\_sales.csv
+│   ├── superstore_eda.ipynb
+│   ├── superstore_sales.csv
 │   └── images/
-└── Task\\\_2\\\_PowerBI\\\_Dashboard/
+└── Task_2_PowerBI_Dashboard/
     ├── README.md
-    ├── Superstore\\\_Executive\\\_Dashboard.pbix
-    ├── Superstore\\\_Executive\\\_Dashboard.pdf
+    ├── Superstore_Executive_Dashboard.pbix
+    ├── Superstore_Executive_Dashboard.pdf
     ├── data/
     └── images/
 ```
@@ -37,5 +37,5 @@ Both projects use the Superstore retail sales dataset (2015-2018, 9,993 order li
 ## Author
 
 **Brian Quartey**, Data Analyst and BI Specialist
-LinkedIn: www.linkedin.com/in/brian-quartey | GitHub: https://github.com/Halo95
 
+LinkedIn: https://www.linkedin.com/in/brian-quartey | GitHub: https://github.com/Halo95
